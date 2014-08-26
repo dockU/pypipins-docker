@@ -1,0 +1,6 @@
+[submodule "shields"]
+	path = shields
+	url = git@github.com:badges/shields.git
+[submodule "pypipins"]
+	path = pypipins
+	url = git@github.com:badges/pypipins.git
