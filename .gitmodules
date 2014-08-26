@@ -1,6 +1,3 @@
-[submodule "shields"]
-	path = shields
-	url = https://github.com/badges/shields.git
 [submodule "pypipins"]
 	path = pypipins
 	url = https://github.com/badges/pypipins.git
