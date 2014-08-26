@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec python3 /opt/pypipins/shields/shields.py 2>&1
